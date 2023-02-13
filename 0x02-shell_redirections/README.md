@@ -1,1 +1,1 @@
-Doing shell redirections is so fun
+My seventh readme
